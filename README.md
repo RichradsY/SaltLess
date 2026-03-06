@@ -1,4 +1,4 @@
-# SaltLess / 减盐宝
+# SaltLess / 减盐宝 （中文/Eng）
 
 SaltLess（减盐宝）是一款帮助你管理每日盐摄入的健康记录应用。
 
